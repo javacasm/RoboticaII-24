@@ -14,9 +14,9 @@ Todas las micro:bit tienen el mismo programa y emiten y reciben datos por radio,
 
 [Programa: Dado en grupo](https://makecode.microbit.org/S71311-82136-31460-48895)
 
-![](./images/programa-dado-radio-grupo.png)
+![](https://raw.githubusercontent.com/javacasm/RoboticaII-24/main/images/programa-dado-radio-grupo.png)
 
-Para distingar cuando el número que se muestra es generado por nuestra micro:bit o se recibe por radio, en este último caso invertimos el led (0,0) al recibirlo
+Para distinguir cuando el número que se muestra es generado por nuestra micro:bit o se recibe por radio, en este último caso invertimos el led (0,0) al recibirlo
 
 ### Controlando maqueen por radio
 
@@ -28,13 +28,13 @@ El mando envía órdenes de movimiento a maqueen usando caracteres
 
 [Programa: mando](https://makecode.microbit.org/S27016-73784-00051-43236)
 
-![](./images/programa-mando-maqueen-radio.png)
+![](https://raw.githubusercontent.com/javacasm/RoboticaII-24/main/images/programa-mando-maqueen-radio.png)
 
 El robot interpreta las órdenes del mando y además envía cada 10 segundos la temperatura como número
 
 [Programa: robot](https://makecode.microbit.org/S90780-51307-28615-38611)
 
-![](./images/programa-robot-maqueen-radio.png)
+![](https://raw.githubusercontent.com/javacasm/RoboticaII-24/main/images/programa-robot-maqueen-radio.png)
 
 ### Encendiendo Leds
 
@@ -42,4 +42,4 @@ Vamos a conectar un led al extensor de micro:bit y encenderlo y apagarlo
 
 [Programa encender/apagar leds](https://makecode.microbit.org/S86602-73088-31538-43784)
 
-![](./images/programa-encender-led.png)
+![](https://raw.githubusercontent.com/javacasm/RoboticaII-24/main/images/programa-encender-led.png)
