@@ -39,6 +39,6 @@ Usamos bloque condicional ( Si -> entonces/Si no) para hacer una cosa u otra en 
 * Usamos el pin 8 que es el led izquiero de maqueen. En el simulador se ve que se enciende y apaga el pin correspondiente a P8
 * Conectamos la placa a maqueen y vemos como al cambiar la temperatura se enciende/apaga el led de maqueen
 
-![](https://raw.githubusercontent.com/javacasm/RoboticaII-24/main/images/edge-connector-2.svg)
+![](https://raw.githubusercontent.com/javacasm/RoboticaII-24/main/images/edge-connector-2.png)
 
 ![](https://raw.githubusercontent.com/javacasm/RoboticaII-24/main/images/maqueen_pinout.jpeg)

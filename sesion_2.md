@@ -13,7 +13,7 @@ Cuando usamos nuestro programa termostato veremos en el simulador que se activan
 [Pines de micro:bit ](https://tech.microbit.org/hardware/edgeconnector/)
 
 
-![](https://raw.githubusercontent.com/javacasm/RoboticaII-24/main/images/edge-connector-2.svg)
+![](https://raw.githubusercontent.com/javacasm/RoboticaII-24/main/images/edge-connector-2.png)
 
 
 Vemos que hay pines que permiten trabajar de diferente forma. Podemos leer el voltaje de los que están marcados como "analog in"
