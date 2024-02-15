@@ -47,7 +47,7 @@ Sensor de temperatura muy barato, pero más complejo de usar
 
 ![](https://raw.githubusercontent.com/javacasm/RoboticaII-24/main/images/sensor-llama.png)
 
-**Sensor de alcohol** es el que tienen los alcolímetros. No está calibrado, da una medida relativa.
+**Sensor de alcohol** es el que tienen los alcoholímetros. No está calibrado, da una medida relativa.
 
 ![](https://raw.githubusercontent.com/javacasm/RoboticaII-24/main/images/sensor-alcohol.png)
 
